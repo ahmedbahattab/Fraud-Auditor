@@ -1,5 +1,4 @@
-# Fraud Auditor: A Visual Analytics Approach For Collusive Fraud in
-Health Insurance (Deep Learning)
+# Fraud Auditor: A Visual Analytics Approach For Collusive Fraud in Health Insurance (Deep Learning)
 Collusive fraud, in which multiple fraudsters collude to defraud health insurance funds, threatens the operation
 of the healthcare system. However, existing statistical and machine learning-based methods have limited
 ability to detect fraud in the scenario of health insurance due to the high similarity of fraudulent behaviors to
